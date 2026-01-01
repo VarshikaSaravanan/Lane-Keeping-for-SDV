@@ -30,3 +30,6 @@ Perception: Extracts lane lines and maps them to a bird's eye view.
 Planning: Calculates the ideal steering angle and safe max speed for the current road curvature.
 Control: Smooths the inputs to prevent jerky maneuvers and maintain passenger comfort.
 Simulate: Overlays the decision data and safety warnings onto the video feed.
+<img width="1596" height="938" alt="Screenshot 2026-01-01 075308" src="https://github.com/user-attachments/assets/55e28326-85a0-4178-83df-5958c5c79fa5" />
+<img width="1596" height="937" alt="Screenshot 2026-01-01 075332" src="https://github.com/user-attachments/assets/c068054c-5806-4a81-b1e8-25ffa7d79255" />
+<img width="1599" height="933" alt="Screenshot 2026-01-01 075402" src="https://github.com/user-attachments/assets/7f3ee3c1-6cc1-46f0-aa6f-0deb0870bbb6" />
